@@ -8,4 +8,4 @@ Responsive Landing Page
 
 ![Output3](https://github.com/JessyWesneena/PRODIGY_WD_01/blob/main/screenshots/Screenshot%202026-02-03%20173130.png?raw=true)
 
-![Output4](screenshots/Screenshot_2026-02-03_173155.png)
+![Output4](https://github.com/JessyWesneena/PRODIGY_WD_01/blob/main/screenshots/Screenshot%202026-02-03%20173155.png?raw=true)
