@@ -2,7 +2,7 @@
 Responsive Landing Page
 ## Output Screenshots
 
-![Output1](screenshots/Screenshot_2026-02-03_173036.png)
+![Output1](screenshots/Screenshot 2026-02-03 173036.png)
 
 ![Output2](screenshots/Screenshot_2026-02-03_173103.png)
 
