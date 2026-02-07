@@ -2,9 +2,9 @@
 Responsive Landing Page
 ## Output Screenshots
 
-![Output1](screenshots/Screenshot 2026-02-03 173036.png)
+![Output1](https://github.com/JessyWesneena/PRODIGY_WD_01/blob/main/screenshots/Screenshot%202026-02-03%20173036.png?raw=true)
 
-![Output2](screenshots/Screenshot_2026-02-03_173103.png)
+![Output2]()
 
 ![Output3](screenshots/Screenshot_2026-02-03_173130.png)
 
